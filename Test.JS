@@ -1,0 +1,1 @@
+console.log("Vscode JS 처음 실행 환경 설치 테스트");
