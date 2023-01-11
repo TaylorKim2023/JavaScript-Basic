@@ -9,3 +9,5 @@ function solution(n) {
         return output; 
     }
 console.log(solution(10)); 
+
+// 오타 및 노드 JS 연동 오류. 
